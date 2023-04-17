@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003432273339",
+    "project_id": "iot-sync-d1653",
+    "storage_bucket": "iot-sync-d1653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003432273339:android:c4905a60b26b7d0d42109e",
+        "android_client_info": {
+          "package_name": "com.flycatchtech.iot_sync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003432273339-t830id6pfs3co96aq1ij4umt0lqo0ud3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN-tXW4G17Aoxpu7F1omuhC4UWkY3-WQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003432273339-t830id6pfs3co96aq1ij4umt0lqo0ud3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
